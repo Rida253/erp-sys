@@ -1,0 +1,30 @@
+c:\users\djtariq\documents\visual studio 2015\Projects\newerpsystem\newerpsystem\bin\Debug\newerpsystem.exe.config
+c:\users\djtariq\documents\visual studio 2015\Projects\newerpsystem\newerpsystem\bin\Debug\newerpsystem.exe
+c:\users\djtariq\documents\visual studio 2015\Projects\newerpsystem\newerpsystem\bin\Debug\newerpsystem.pdb
+c:\users\djtariq\documents\visual studio 2015\Projects\newerpsystem\newerpsystem\obj\Debug\newerpsystem.csprojResolveAssemblyReference.cache
+c:\users\djtariq\documents\visual studio 2015\Projects\newerpsystem\newerpsystem\obj\Debug\newerpsystem.Form1.resources
+c:\users\djtariq\documents\visual studio 2015\Projects\newerpsystem\newerpsystem\obj\Debug\newerpsystem.Properties.Resources.resources
+c:\users\djtariq\documents\visual studio 2015\Projects\newerpsystem\newerpsystem\obj\Debug\newerpsystem.csproj.GenerateResource.Cache
+c:\users\djtariq\documents\visual studio 2015\Projects\newerpsystem\newerpsystem\obj\Debug\newerpsystem.exe
+c:\users\djtariq\documents\visual studio 2015\Projects\newerpsystem\newerpsystem\obj\Debug\newerpsystem.pdb
+C:\Users\DJTARIQ\documents\visual studio 2015\Projects\newerpsystem\newerpsystem\obj\Debug\newerpsystem.Form2.resources
+C:\Users\DJTARIQ\documents\visual studio 2015\Projects\newerpsystem\newerpsystem\obj\Debug\newerpsystem.Form3.resources
+C:\Users\DJTARIQ\documents\visual studio 2015\Projects\newerpsystem\newerpsystem\obj\Debug\newerpsystem.Form4.resources
+C:\Users\DJTARIQ\documents\visual studio 2015\Projects\newerpsystem\newerpsystem\obj\Debug\newerpsystem.Form5.resources
+C:\Users\DJTARIQ\documents\visual studio 2015\Projects\newerpsystem\newerpsystem\obj\Debug\newerpsystem.Form6.resources
+C:\Users\DJTARIQ\documents\visual studio 2015\Projects\newerpsystem\newerpsystem\obj\Debug\newerpsystem.Form7.resources
+G:\tehminba\newerpsystem\newerpsystem\bin\Debug\newerpsystem.exe.config
+G:\tehminba\newerpsystem\newerpsystem\obj\Debug\newerpsystem.exe
+G:\tehminba\newerpsystem\newerpsystem\obj\Debug\newerpsystem.pdb
+G:\tehminba\newerpsystem\newerpsystem\bin\Debug\newerpsystem.exe
+G:\tehminba\newerpsystem\newerpsystem\bin\Debug\newerpsystem.pdb
+G:\tehminba\newerpsystem\newerpsystem\obj\Debug\newerpsystem.csprojResolveAssemblyReference.cache
+G:\tehminba\newerpsystem\newerpsystem\obj\Debug\newerpsystem.Form1.resources
+G:\tehminba\newerpsystem\newerpsystem\obj\Debug\newerpsystem.Form2.resources
+G:\tehminba\newerpsystem\newerpsystem\obj\Debug\newerpsystem.Form3.resources
+G:\tehminba\newerpsystem\newerpsystem\obj\Debug\newerpsystem.Form4.resources
+G:\tehminba\newerpsystem\newerpsystem\obj\Debug\newerpsystem.Form5.resources
+G:\tehminba\newerpsystem\newerpsystem\obj\Debug\newerpsystem.Form6.resources
+G:\tehminba\newerpsystem\newerpsystem\obj\Debug\newerpsystem.Form7.resources
+G:\tehminba\newerpsystem\newerpsystem\obj\Debug\newerpsystem.Properties.Resources.resources
+G:\tehminba\newerpsystem\newerpsystem\obj\Debug\newerpsystem.csproj.GenerateResource.Cache
